@@ -1,52 +1,150 @@
 {
-  "toys": [
+  "songs": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "Title": "Father I Adore You",
+      "Artist": "Nathaniel Bassey",
+      "Style": "Worship ",
+      "Lyrics": "Father I Adore you, I lay my life before You. I will will, love You"
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "Title": "Forever You Will Be",
+      "Artist": "Chris Oyakhilome",
+      "Style": "Worship ",
+      "Lyrics": "Forever You will be, the Lamb upon the throne, I gladly bow my knees, as I worship you Lord"
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "Title": "Fragrance To Worship ",
+      "Artist": "Sunsin Oyekan ",
+      "Style": "Worship ",
+      "Lyrics": "First it was fragrance, then it turned to, my worship is my weapon, this is how I win my battle"
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "Title": "I Have A God",
+      "Artist": "Matthew Peter",
+      "Style": "Praise",
+      "Lyrics": "I have a God who never fails, I have a God who never fails, who never fails, forever more"
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "Title": "Halleluia ",
+      "Artist": "Yaw Boadu Jnr.",
+      "Style": "Praise",
+      "Lyrics": "Halle Hale, Oh Halla, Halle Halle, Halleluia"
     },
-    {
+     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "Title": "I have more than a song",
+      "Artist": "Dunsin Onyekan",
+      "Style": "Worship",
+      "Lyrics": "I have more than a song, today, I brought myself, I am your sacrifice. I am more than a song, today, I brought myself, I am your worship" 
     },
     {
       "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "Title": "Adonai we worship you",
+      "Artist": "Unknown",
+      "Style": "Worship",
+      "Lyrics": "Adonai we worship you, Son of God You are so good. Almighty God, Halloweth be your name, Your dominion is forever more"
+      
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "Title": "Amen Amen",
+      "Artist": "Unknown",
+      "Style": "Praise",
+      "Lyrics": "Amen Amen, Blessings and Glory, Wisdom Thanksgiving and Honor, Power and Might belongs to our God, Forever and ever Amen"
+      
+    },
+    {
+      "id": 10,
+      "Title": "Anointing fall on me",
+      "Artist": "Unknown",
+      "Style": "Worship",
+      "Lyrics": "Anointing fall on me. Anointing fall on me. Let the power of the Holy Ghost fall on me, Anointing fall on me"
+      
+    },
+    {
+      "id": 11,
+      "Title": "Be Glorified",
+      "Artist": "Unknown",
+      "Style": "Worship",
+      "Lyrics": "Be Glorified, Be Glorified. Be Glorified in the Heavesn. Be Glorified on this earth. Be Glorified in this temple. Jesus, Jesus, be Thou Glorified"
+      
+    },
+    {
+      "id": 12,
+      "Title": "Consuming Fire",
+      "Artist": "Unknown",
+      "Style": "Worship",
+      "Lyrics": "Consuming fire, I worship You today. You are the all consuming fire, come and manifest yourself"
+      
+    },
+    {
+      "id": 13,
+      "Title": "We Bow Down and Worship",
+      "Artist": "Unknown",
+      "Style": "Worship",
+      "Lyrics": "We bow down and worship Yahweh. We bow down and worship Yahweh. Yahweh, Yahweh, Yahweh"
+      
+    },
+    {
+      "id": 14,
+      "Title": "El Elyon",
+      "Artist": "Unknown",
+      "Style": "Worship",
+      "Lyrics": "El Elyon, God Most High. You are Jesus Christ, You are El Elohe Israel"
+      
+    },
+    {
+      "id": 15,
+      "Title": "Fill me Up",
+      "Artist": "Tasha Brown",
+      "Style": "Worship",
+      "Lyrics": "YOu provide the fire. I provide the sacrifice. You provide the Spirit. I will open up inside. Fill me up God. Fill me up God. Fill me up God. Fill me up"
+      
+    },
+    {
+      "id": 16,
+      "Title": "Fire Burning in My Soul",
+      "Artist": "Unknown",
+      "Style": "Praise",
+      "Lyrics": "Fire burning in my soul. Pentecostal fire ay. Holy Ghost fire ay. Fire Fire Fire."
+      
+    },
+    {
+      "id": 17,
+      "Title": "I Enter the Holy of Holies",
+      "Artist": "Unknown",
+      "Style": "Worship",
+      "Lyrics": "I enter the holy of holies. I enter through the blood of the lamb. I enter to worship You only. I enter to honor I AM. Lord I worship You, I worship You. Lord I worship You, I worship You. For your name is Holy, Holy, Lord."
+      
+    },
+    {
+      "id": 18,
+      "Title": "Holy Ghost Do it Again",
+      "Artist": "Unknown",
+      "Style": "Worship",
+      "Lyrics": "Holy Ghost do it again. Do it again in my life. Open my eyes to see Jesus. Seated upon the throne"
+      
+    },
+    {
+      "id": 19,
+      "Title": "I Have No Other God",
+      "Artist": "Unknown",
+      "Style": "Worship",
+      "Lyrics": "I have no other God but You. I have no other God but You. You have done what no man can do. You will do what no man can do"
+      
+    },
+    {
+      "id": 20,
+      "Title": "I will Worship You",
+      "Artist": "Danny Nattey",
+      "Style": "Worship",
+      "Lyrics": "I will worship You. Lift You high above the earth and the Heavens. You are Lord. You are Lord. Yes You are"
+      
     }
   ]
 }
