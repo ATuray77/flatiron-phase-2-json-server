@@ -35,12 +35,12 @@
       "Style": "Praise",
       "Lyrics": "Halle Hale, Oh Halla, Halle Halle, Halleluia"
     },
-     {
+    {
       "id": 6,
       "Title": "I have more than a song",
       "Artist": "Dunsin Onyekan",
       "Style": "Worship",
-      "Lyrics": "I have more than a song, today, I brought myself, I am your sacrifice. I am more than a song, today, I brought myself, I am your worship" 
+      "Lyrics": "I have more than a song, today, I brought myself, I am your sacrifice. I am more than a song, today, I brought myself, I am your worship"
     },
     {
       "id": 7,
@@ -48,7 +48,6 @@
       "Artist": "Unknown",
       "Style": "Worship",
       "Lyrics": "Adonai we worship you, Son of God You are so good. Almighty God, Halloweth be your name, Your dominion is forever more"
-      
     },
     {
       "id": 8,
@@ -56,7 +55,6 @@
       "Artist": "Unknown",
       "Style": "Praise",
       "Lyrics": "Amen Amen, Blessings and Glory, Wisdom Thanksgiving and Honor, Power and Might belongs to our God, Forever and ever Amen"
-      
     },
     {
       "id": 10,
@@ -64,7 +62,6 @@
       "Artist": "Unknown",
       "Style": "Worship",
       "Lyrics": "Anointing fall on me. Anointing fall on me. Let the power of the Holy Ghost fall on me, Anointing fall on me"
-      
     },
     {
       "id": 11,
@@ -72,7 +69,6 @@
       "Artist": "Unknown",
       "Style": "Worship",
       "Lyrics": "Be Glorified, Be Glorified. Be Glorified in the Heavesn. Be Glorified on this earth. Be Glorified in this temple. Jesus, Jesus, be Thou Glorified"
-      
     },
     {
       "id": 12,
@@ -80,7 +76,6 @@
       "Artist": "Unknown",
       "Style": "Worship",
       "Lyrics": "Consuming fire, I worship You today. You are the all consuming fire, come and manifest yourself"
-      
     },
     {
       "id": 13,
@@ -88,7 +83,6 @@
       "Artist": "Unknown",
       "Style": "Worship",
       "Lyrics": "We bow down and worship Yahweh. We bow down and worship Yahweh. Yahweh, Yahweh, Yahweh"
-      
     },
     {
       "id": 14,
@@ -96,7 +90,6 @@
       "Artist": "Unknown",
       "Style": "Worship",
       "Lyrics": "El Elyon, God Most High. You are Jesus Christ, You are El Elohe Israel"
-      
     },
     {
       "id": 15,
@@ -104,7 +97,6 @@
       "Artist": "Tasha Brown",
       "Style": "Worship",
       "Lyrics": "YOu provide the fire. I provide the sacrifice. You provide the Spirit. I will open up inside. Fill me up God. Fill me up God. Fill me up God. Fill me up"
-      
     },
     {
       "id": 16,
@@ -112,7 +104,6 @@
       "Artist": "Unknown",
       "Style": "Praise",
       "Lyrics": "Fire burning in my soul. Pentecostal fire ay. Holy Ghost fire ay. Fire Fire Fire."
-      
     },
     {
       "id": 17,
@@ -120,7 +111,6 @@
       "Artist": "Unknown",
       "Style": "Worship",
       "Lyrics": "I enter the holy of holies. I enter through the blood of the lamb. I enter to worship You only. I enter to honor I AM. Lord I worship You, I worship You. Lord I worship You, I worship You. For your name is Holy, Holy, Lord."
-      
     },
     {
       "id": 18,
@@ -128,7 +118,6 @@
       "Artist": "Unknown",
       "Style": "Worship",
       "Lyrics": "Holy Ghost do it again. Do it again in my life. Open my eyes to see Jesus. Seated upon the throne"
-      
     },
     {
       "id": 19,
@@ -136,7 +125,6 @@
       "Artist": "Unknown",
       "Style": "Worship",
       "Lyrics": "I have no other God but You. I have no other God but You. You have done what no man can do. You will do what no man can do"
-      
     },
     {
       "id": 20,
@@ -144,7 +132,41 @@
       "Artist": "Danny Nattey",
       "Style": "Worship",
       "Lyrics": "I will worship You. Lift You high above the earth and the Heavens. You are Lord. You are Lord. Yes You are"
-      
+    },
+    {
+      "Title": "We Hail You",
+      "Artist": "Victoria Orenze",
+      "Style": "Worship",
+      "Lyrics": "We hail You.\nWe Worship You.\nWe hail You.\nMost High",
+      "id": 21
+    },
+    {
+      "Title": "Thanks",
+      "Artist": "John",
+      "Style": "Worship",
+      "Lyrics": "I am the king",
+      "id": 22
+    },
+    {
+      "Title": "Thanks",
+      "Artist": "John",
+      "Style": "Worship",
+      "Lyrics": "I am the king",
+      "id": 23
+    },
+    {
+      "Title": "Love",
+      "Artist": "Peter J",
+      "Style": "praise",
+      "Lyrics": "I love you Lord",
+      "id": 24
+    },
+    {
+      "Title": "Test",
+      "Artist": "T",
+      "Style": "praise",
+      "Lyrics": "Testing...",
+      "id": 25
     }
   ]
 }
